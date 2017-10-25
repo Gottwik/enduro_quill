@@ -1,0 +1,17 @@
+{
+  "name": "enduro_quill",
+  "version": "1.0.0",
+  "description": "adds quill wysiwyg editor to enduro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "enduro.js",
+    "enduro_admin",
+    "enduro",
+    "enduro_plugin"
+  ],
+  "author": "Martin Gottweis",
+  "license": "MIT"
+}
