@@ -1,6 +1,6 @@
 {
   "name": "enduro_quill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "adds quill wysiwyg editor to enduro",
   "main": "index.js",
   "scripts": {
