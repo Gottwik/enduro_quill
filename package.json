@@ -1,6 +1,6 @@
 {
   "name": "enduro_quill",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "adds quill wysiwyg editor to enduro",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,5 @@
   "author": "Martin Gottweis",
   "license": "MIT",
   "repository": "https://github.com/Gottwik/enduro_quill.git",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
