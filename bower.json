@@ -1,0 +1,28 @@
+{
+  "name": "enduro_quill",
+  "description": "adds quill wysiwyg editor to enduro",
+  "main": "index.js",
+  "authors": [
+    "Martin Gottweis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "enduro.js",
+    "enduro_admin",
+    "enduro",
+    "enduro_plugin"
+  ],
+  "homepage": "https://github.com/Gottwik/enduro_quill",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "quill": "^1.3.3"
+  }
+}

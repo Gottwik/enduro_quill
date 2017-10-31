@@ -13,5 +13,8 @@
     "enduro_plugin"
   ],
   "author": "Martin Gottweis",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/Gottwik/enduro_quill.git",
+  "dependencies": {
+  }
 }
